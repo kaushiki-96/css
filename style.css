@@ -1,12 +1,14 @@
 h1{
-    color:orange;
-    background-color:cornsilk;
+    text-align: center;
+    text-decoration: wavy red underline;
 }
 p{
-    color:white;
-    background-color:black;
+    text-align: justify;
 }
-button{
-    color:red;
-    background-color:black ;
+h2{
+    font-weight: 300;
+    text-decoration:dashed pink line-through;
+}
+a{
+    text-decoration: none;
 }
