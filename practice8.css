@@ -1,0 +1,27 @@
+#box1{
+    height:100px;
+    width:100px;
+    background-color: green;
+    transition:2s ease-in.2s;
+}
+#box1:hover{
+    width:600px;
+}
+#box2{
+    height:100px;
+    width:100px;
+    background:red;
+    transform:translate(200px,200px) rotate(90deg);
+}
+#box3{
+    height:100px;
+    width:100px;
+    background: yellow;
+    transform:skewX(20deg);
+}
+#box4{
+    height:100px;
+    width:100px;
+    background-color: blueviolet;
+    box-shadow: 2px 2px 5px green;
+}
