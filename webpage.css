@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+nav{
+    padding:5px;
+}
+nav a{
+    text-decoration: none;
+    margin-left:55px;
+    background-color: aqua;
+}
+header{
+    background-color:blanchedalmond;
+}
+.box{
+    height:100px;
+    width:100px;
+    background-color: rgb(113, 113, 152);
+    margin:20px;
+    display:inline-block;
+}
+#container{
+    border:5px solid yellow;
+}
+#box3{
+    position:fixed;
+    right:10px;
+}
